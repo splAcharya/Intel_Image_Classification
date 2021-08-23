@@ -20,4 +20,5 @@
 ![alt_text](https://github.com/splAcharya/Intel_Image_Classification/blob/main/images/Augmented_Data.jpg)
 
 ## Overall Analysis
+**Note**: The last two columns are results on validation set not Train set.
 ![alt_text](https://github.com/splAcharya/Intel_Image_Classification/blob/main/images/Overall_Analysis.jpg)
